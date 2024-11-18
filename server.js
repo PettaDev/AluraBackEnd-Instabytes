@@ -12,5 +12,3 @@ app.get("/api", (req, res) => { // requisição e resposta com a função get
 }); 
 
 // http://localhost:3000/api
-
-// AIzaSyDQ5HN6J9COAzq0xg1S4q77rZV7_mOalLU
